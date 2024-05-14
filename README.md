@@ -1,0 +1,1 @@
+Catching Plagiarists is a Java project that I completed for my Data Structures class at Barrington High School. In this project, I learned about data structures such as HashSets, HashMaps, ArrayLists, and Collections. This project is intended for use with three folders, each containing a number of documents to compare to eachother.
